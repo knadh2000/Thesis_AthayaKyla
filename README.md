@@ -5,3 +5,10 @@ The dataset are not included in this repository because of its size. Attach is t
 
 **Download from official site:** https://www.unb.ca/cic/datasets/andmal2020.html
 **Download clean dataset:** https://www.kaggle.com/code/dhoogla/cccs-cic-andmal2020-00-cleaning-static
+
+##Notebooks 
+Notebooks : 
+RQ1_final_clean : baseline model across 30 seeds 
+RQ2_30seeds : Research Question 2,3, and 4 across 30 seeds 
+
+result: presented in a CSV file
