@@ -1,0 +1,9 @@
+Baseline,Compressed,Mean,Std
+MLP Baseline,MLP Distilled,72.48,2.36
+MLP Baseline,MLP Pruned 25%,89.27,2.11
+MLP Baseline,MLP Pruned 50%,89.07,2.31
+MLP Baseline,MLP Pruned 75%,89.49,2.23
+MLP Baseline,MLP Quantized,97.75,0.43
+RF Baseline,RF Pruned 50%,90.02,1.02
+RF Baseline,RF Pruned 75%,83.76,1.33
+RF Baseline,RF Pruned 87%,76.72,1.88
